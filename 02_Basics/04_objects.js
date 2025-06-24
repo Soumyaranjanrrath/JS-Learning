@@ -58,3 +58,17 @@ console.log(Object.values(tiktokUser)); // Displaying the values of the tiktokUs
 console.log(Object.entries(tiktokUser)); // Displaying the key-value pairs of the tiktokUser object as an array of arrays
 
 console.log(tiktokUser.hasOwnProperty("id")); // Checking if the tiktokUser object has a property named "id"
+
+
+const course = {
+    name: "JavaScript",
+    price: 999,
+    isPaid: true,
+    
+};
+course.price
+const {name} = course; // Destructuring to extract the name property from the course object
+console.log(name); // Displaying the extracted name property
+
+
+
