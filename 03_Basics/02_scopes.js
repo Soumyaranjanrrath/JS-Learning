@@ -29,6 +29,7 @@ if (true) {
     const userName = "Tapan";
     if ( userName === "Tapan") {
         const age = 20;
-        console.log(userName); 
-        console.log(age); // This will work because 'age' is defined in this scope
+                console.log(userName); 
+                console.log(age); // This will work because 'age' is defined in this scope
+            }
         }
