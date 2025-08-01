@@ -1,0 +1,26 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A basic app to practice ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soumyaranjanrrath/JS-Learning.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Soumyaranjan Rath",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soumyaranjanrrath/JS-Learning/issues"
+  },
+  "homepage": "https://github.com/Soumyaranjanrrath/JS-Learning#readme",
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0"
+  }
+}
